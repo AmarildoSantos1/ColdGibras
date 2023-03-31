@@ -1,4 +1,6 @@
 Projeto pessoal 
+*O carrinho de compras está em desenvolvimento
+
 _____________________________________________________________
 O que foi utilizado:
 
